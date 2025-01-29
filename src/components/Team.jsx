@@ -3,7 +3,7 @@ const people = [
       name: 'Manish Gupta',
       role: 'CEO / Developer',
       imageUrl:
-        '/images/img.JPG',
+        '/images/img2.jpeg',
     },
     {
       name: 'Ashish Yadav',
